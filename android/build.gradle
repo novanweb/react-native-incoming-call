@@ -22,7 +22,7 @@ buildscript {
     if (project == rootProject) {
         repositories {
             google()
-            jcenter()
+           // jcenter()
         }
         dependencies {
             classpath 'com.android.tools.build:gradle:3.4.1'
